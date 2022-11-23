@@ -1,0 +1,503 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 420px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
+
+.u-section-1 .u-image-1 {
+  min-height: 310px;
+  background-image: url("images/17712900-0.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 362px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+.u-section-1 .u-image-2 {
+  min-height: 310px;
+  background-image: url("images/17712900-01.jpeg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-1 .u-layout-cell-4 {
+  min-height: 310px;
+}
+
+.u-section-1 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-text-4 {
+  margin-bottom: 0;
+  margin-top: 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 346px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 256px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 298px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 256px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 256px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 265px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 392px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 392px;
+  }
+
+  .u-section-1 .u-layout-cell-4 {
+    min-height: 100px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 199px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 588px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 588px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 125px;
+  }
+
+  .u-section-1 .u-image-1 {
+    min-height: 370px;
+  }
+
+  .u-section-1 .u-image-2 {
+    min-height: 370px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-2 .u-group-1 {
+  width: 800px;
+  min-height: 151px;
+  margin: 60px auto;
+}
+
+.u-section-2 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-2 .u-text-1 {
+  font-weight: 700;
+  margin: 0 auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-group-1 {
+    width: 720px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-group-1 {
+    width: 540px;
+  }
+
+  .u-section-2 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-group-1 {
+    width: 340px;
+  }
+}.u-section-3 .u-sheet-1 {
+  min-height: 168px;
+} .u-section-4 {
+  background-image: none;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 686px;
+}
+
+.u-section-4 .u-layout-wrap-1 {
+  margin: 70px 0;
+}
+
+.u-section-4 .u-image-1 {
+  min-height: 273px;
+  background-image: url("images/1_cc70c65a0a3ee6fb144c620dee1271e7.jpg");
+}
+
+.u-section-4 .u-container-layout-1 {
+  padding: 0;
+}
+
+.u-section-4 .u-layout-cell-2 {
+  min-height: 377px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-2 {
+  padding: 30px 29px;
+}
+
+.u-section-4 .u-text-1 {
+  margin: 0 1px;
+}
+
+.u-section-4 .u-text-2 {
+  margin: 21px 1px 0;
+}
+
+.u-section-4 .u-image-2 {
+  min-height: 273px;
+  background-image: url("images/economic-growth.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-3 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-4 {
+  min-height: 377px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-4 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-3 {
+  margin: 81px 0 0;
+}
+
+.u-section-4 .u-text-4 {
+  margin: 21px 0 0;
+}
+
+.u-section-4 .u-layout-cell-5 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-5 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-5 {
+  margin: 0;
+}
+
+.u-section-4 .u-text-6 {
+  margin: 20px 0 0;
+}
+
+.u-section-4 .u-image-3 {
+  min-height: 273px;
+  background-image: url("images/ecg_11.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-4 .u-layout-cell-7 {
+  min-height: 273px;
+  background-image: none;
+}
+
+.u-section-4 .u-container-layout-7 {
+  padding: 30px;
+}
+
+.u-section-4 .u-text-7 {
+  margin: 10px 0 0;
+}
+
+.u-section-4 .u-text-8 {
+  margin: 21px 0 0;
+}
+
+.u-section-4 .u-image-4 {
+  min-height: 273px;
+  background-image: url("images/money-coin-investment-businessmen-business-bitcoin-product-public-relations-technology-professional-brand-businessperson-software-engineering-1419843.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-container-layout-8 {
+  padding: 30px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 2px;
+  }
+
+  .u-section-4 .u-layout-wrap-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 225px;
+    background-position: 50% 50%;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 311px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 225px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 311px;
+  }
+
+  .u-section-4 .u-layout-cell-5 {
+    min-height: 225px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 225px;
+  }
+
+  .u-section-4 .u-layout-cell-7 {
+    min-height: 225px;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 225px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 948px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 345px;
+    order: 0;
+  }
+
+  .u-section-4 .u-layout-cell-2 {
+    min-height: 100px;
+    order: 1;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 345px;
+    order: 3;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 100px;
+    order: 2;
+  }
+
+  .u-section-4 .u-layout-cell-5 {
+    min-height: 100px;
+    order: 1;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 345px;
+    order: 0;
+  }
+
+  .u-section-4 .u-layout-cell-7 {
+    min-height: 100px;
+    order: 2;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 345px;
+    order: 3;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 1852px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-4 .u-container-layout-3 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    order: 3;
+  }
+
+  .u-section-4 .u-container-layout-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-container-layout-5 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 518px;
+  }
+
+  .u-section-4 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-layout-cell-7 {
+    order: 3;
+  }
+
+  .u-section-4 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 518px;
+    order: 2;
+  }
+
+  .u-section-4 .u-container-layout-8 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 304px;
+  }
+
+  .u-section-4 .u-image-1 {
+    min-height: 326px;
+  }
+
+  .u-section-4 .u-image-2 {
+    min-height: 326px;
+  }
+
+  .u-section-4 .u-image-3 {
+    min-height: 326px;
+  }
+
+  .u-section-4 .u-image-4 {
+    min-height: 326px;
+  }
+}
